@@ -12,7 +12,7 @@
     "dist/",
     "ios/Plugin/",
     "FlowmocoCapacitorBiometricKeychain.podspec",
-    "rollup.config.js",
+    "rollup.config.js"
   ],
   "author": "Charlie Jacques",
   "license": "MIT",
